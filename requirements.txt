@@ -1,0 +1,17 @@
+telethon==2.0.0
+questionary==1.10.0
+pyfiglet==0.8.post1
+termcolor==2.2.0
+rich==13.7.0
+pandas==2.2.1
+cryptography==42.0.5
+aiofiles==23.2.1
+python-magic==0.4.27
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.0
+pysocks==1.7.1
+pytest==8.1.1
+pytest-asyncio==0.23.6
+black==24.3.0
+flake8==7.0.0
+mypy==1.9.0
